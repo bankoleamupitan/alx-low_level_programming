@@ -1,2 +1,2 @@
-gcc -s $CFILE
-chmod u+x 2-assembler
+#!/bin/bash
+gcc -s $CFILEr
