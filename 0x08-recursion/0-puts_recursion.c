@@ -17,8 +17,4 @@ void _puts_recursion(char *s)
 	_putchar(*s);
 	s++;
 	_puts_recursion(s);
-mod u+x 0-puts_recursion.c
-git add .
-git commit -m '0-puts_recursion.c'
-git push
-bankoleamupitan}
+}
